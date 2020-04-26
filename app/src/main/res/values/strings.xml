@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BAITAP-DRAWABLE-RESOURSE</string>
+    <string name="forgot_password"><u>forgot password?</u></string>
 </resources>
+
